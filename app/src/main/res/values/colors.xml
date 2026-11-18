@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Design system: Modern Minimalist & Eye-Catching Productivity Palette -->
+<resources>
+    <!-- Primary Brand: Elegant Deep Teal -->
+    <color name="primary">#00796B</color>
+    <color name="primary_dark">#004D40</color>
+    <color name="primary_light">#E0F2F1</color>
+    <color name="primary_light_hover">#B2DFDB</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Secondary / Accents -->
+    <color name="accent_teal">#26A69A</color>
+    <color name="accent_amber">#F59E0B</color>
+    <color name="accent_amber_light">#FEF3C7</color>
+
+    <!-- Backgrounds: Crisp clean slate modern background -->
+    <color name="background">#F8FAFC</color>
+    <color name="background_alt">#F1F5F9</color>
+
+    <!-- Surface: Pure White Cards with subtle strokes -->
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#0F172A</color>
+    <color name="card_stroke">#E2E8F0</color>
+    <color name="card_stroke_focused">#00796B</color>
+
+    <!-- Text: High contrast modern slate typography -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_tertiary">#94A3B8</color>
+
+    <!-- Status colors -->
+    <color name="success">#059669</color>
+    <color name="success_light">#D1FAE5</color>
+    <color name="error">#DC2626</color>
+    <color name="error_light">#FEE2E2</color>
+
+    <!-- Chip trạng thái nhắc hẹn -->
+    <color name="chip_reminder_off_bg">#F1F5F9</color>
+    <color name="chip_reminder_off_text">#64748B</color>
+
+    <!-- Card stats tint backgrounds -->
+    <color name="stat_total_bg">#F0FDFA</color>
+    <color name="stat_total_stroke">#CCFBF1</color>
+    <color name="stat_reminder_bg">#F0FDF4</color>
+    <color name="stat_reminder_stroke">#DCFCE7</color>
+</resources>

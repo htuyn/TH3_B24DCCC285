@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Appointment Manager</string>
+
+    <!-- Login screen -->
+    <string name="login_title">Quản lý lịch hẹn</string>
+    <string name="login_description">Đăng nhập để quản lý lịch hẹn của bạn dễ dàng và đúng giờ</string>
+    <string name="hint_username">Tên đăng nhập</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="error_login_failed">Sai tên đăng nhập hoặc mật khẩu</string>
+    <string name="error_empty_username">Vui lòng nhập tên đăng nhập</string>
+    <string name="error_empty_password">Vui lòng nhập mật khẩu</string>
+
+    <!-- Titles -->
+    <string name="title_login">Login</string>
+    <string name="title_main">Appointments</string>
+    <string name="title_add_appointment">Add Appointment</string>
+    <string name="title_appointment_detail">Appointment Detail</string>
+
+    <!-- Main dashboard (Phase 4) -->
+    <string name="main_title_my_appointments">Lịch hẹn của tôi</string>
+    <string name="stat_total_label">Tổng lịch hẹn</string>
+    <string name="stat_reminder_label">Đang bật nhắc</string>
+    <string name="stat_zero">0</string>
+    <string name="status_reminder_on">Có nhắc</string>
+    <string name="status_reminder_off">Không nhắc</string>
+    <string name="empty_title">Chưa có lịch hẹn nào</string>
+    <string name="empty_message">Nhấn nút + để thêm lịch hẹn đầu tiên của bạn</string>
+    <string name="cd_add_appointment">Thêm lịch hẹn</string>
+
+    <!-- Add Appointment (Phase 5) -->
+    <string name="add_title">Thêm lịch hẹn</string>
+    <string name="add_section_info">THÔNG TIN</string>
+    <string name="add_section_date">NGÀY</string>
+    <string name="add_section_time">GIỜ</string>
+    <string name="add_hint_title">Tên lịch hẹn *</string>
+    <string name="add_hint_location">Địa điểm *</string>
+    <string name="add_label_reminder">Nhắc nhở</string>
+    <string name="add_label_reminder_desc">Bật để nhắc trước lịch hẹn</string>
+    <string name="add_btn_save">Lưu lịch hẹn</string>
+
+    <!-- Validation errors (Phase 5) -->
+    <string name="error_title_empty">Vui lòng nhập tên lịch hẹn</string>
+    <string name="error_location_empty">Vui lòng nhập địa điểm</string>
+    <string name="error_datetime_past">Ngày giờ phải lớn hơn thời điểm hiện tại</string>
+
+    <!-- Save result (Phase 5) -->
+    <string name="save_success">Lịch hẹn đã được lưu thành công</string>
+    <string name="save_failed">Lưu thất bại. Vui lòng thử lại</string>
+
+    <!-- Appointment Detail (Phase 6) -->
+    <string name="detail_toolbar_title">Chi tiết lịch hẹn</string>
+    <string name="detail_label_appointment">LỊCH HẸN</string>
+    <string name="detail_section_info">CHI TIẾT</string>
+    <string name="detail_label_location">ĐỊA ĐIỂM</string>
+    <string name="detail_label_datetime">NGÀY GIỜ</string>
+    <string name="detail_label_reminder">Nhắc nhở</string>
+    <string name="detail_reminder_on">Đang bật</string>
+    <string name="detail_reminder_off">Đang tắt</string>
+    <string name="detail_btn_back">Quay lại</string>
+    <string name="detail_btn_delete">Xóa lịch hẹn</string>
+    <string name="detail_not_found">Không tìm thấy lịch hẹn</string>
+    <string name="detail_invalid_id">ID lịch hẹn không hợp lệ</string>
+    <string name="detail_delete_title">Xác nhận xóa</string>
+    <string name="detail_delete_message">Bạn có chắc muốn xóa lịch hẹn này không? Hành động này không thể hoàn tác.</string>
+    <string name="detail_delete_confirm">Xóa</string>
+    <string name="detail_delete_cancel">Hủy</string>
+    <string name="detail_delete_success">Lịch hẹn đã được xóa</string>
+    <string name="detail_delete_failed">Xóa thất bại. Vui lòng thử lại</string>
+    <string name="detail_reminder_update_failed">Cập nhật nhắc nhở thất bại</string>
+
+    <!-- Placeholders -->
+    <string name="login_subtitle">Sign in to manage your appointments</string>
+    <string name="main_empty_state">No appointments yet</string>
+    <string name="add_appointment_placeholder">Appointment form will be available here</string>
+    <string name="detail_placeholder">Appointment details will be available here</string>
+
+</resources>
